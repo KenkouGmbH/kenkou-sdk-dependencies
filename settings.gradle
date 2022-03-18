@@ -18,3 +18,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Kenkoutest"
 include ':app'
+include ':dependencies'
